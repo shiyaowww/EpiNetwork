@@ -11,9 +11,7 @@ i.num; i.num.ses1; i.num.ses0; risk(incidence) by group; relative risk are plott
 The only difference across scenarios is the assortative mixing level. 
 No nodewise variation in susceptibility included yet.
 
-
-
-***Technical issue：
+***TECHNICAL ISSUE***
 
 Within iterations after plotting sim, ggplot doesn't output the last two plots.
 
