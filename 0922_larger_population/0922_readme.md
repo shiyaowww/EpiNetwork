@@ -12,6 +12,7 @@ The only difference across scenarios is the assortative mixing level.
 No nodewise variation in susceptibility included yet.
 
 
+
 ***Technical issue：
 
 Within iterations after plotting sim, ggplot doesn't output the last two plots.
