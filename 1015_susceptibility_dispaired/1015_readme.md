@@ -6,9 +6,7 @@ Overall and by-group risks are of interest.
 
 RR will be the measure of social disparity in terms of disease burden.
 
-
-
-To be improved:
+/nTo be improved:
 
 100% nodematch command
 
