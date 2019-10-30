@@ -6,6 +6,8 @@
 
 2: 2 proportions of low ses in the network
 
-Overall and by-group prevalences and risks are of interest.
+Overall and by-group prevalences and risks are recorded.
 
-Relative prevalence and relative risk are recorded.
+Prevalence ratio and risk ratio are calculated.
+
+Above measures of outcomes and associations can be found in 16contours.pdf
