@@ -10,4 +10,4 @@ Overall and by-group prevalences and risks are recorded.
 
 Prevalence ratio and risk ratio are calculated.
 
-Above measures of outcomes and associations can be found in 16contours.pdf
+Above measures of outcomes and associations can be found in 16matrices.xlsx and 16contours.pdf
