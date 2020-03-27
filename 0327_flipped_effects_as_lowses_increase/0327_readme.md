@@ -1,3 +1,3 @@
-By-group clustering is protective when ses0 proportion is low;
+By-group clustering is protective for the disadvantaged group when the proportion of the group is low;
 
-On the opposite when ses0 is larger than 25%.
+Otherwise turned really harmful when ses0 is larger than 20%.
